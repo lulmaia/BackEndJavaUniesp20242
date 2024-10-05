@@ -1,4 +1,4 @@
-# Projeto API Rest - Equipe
+# Projeto API Rest - Luís Gustavo Maia
 
 ## Detalhamento do Time
 
