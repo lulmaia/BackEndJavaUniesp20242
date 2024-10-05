@@ -7,10 +7,10 @@ Este projeto foi desenvolvido integralmente por **Luís Gustavo Maia**
 ### Entidades e Endpoints
 
 - **Ator**
-  - GET /ator
-  - POST /ator
-  - PUT /ator/{id}
-  - DELETE /ator/{id}
+  - `GET /ator`
+  - `POST /ator`
+  - `PUT /ator/{id}`
+  - `DELETE /ator/{id}`
   - Criou o AtorService, AtorRepository e o model Ator anotado com `@Entity`.
 
 - **Cinematografia**
@@ -28,10 +28,10 @@ Este projeto foi desenvolvido integralmente por **Luís Gustavo Maia**
   - Inclui os métodos no `CriticaService`, `CriticaRepository` e a entidade `Critica` anotada com `@Entity`.
 
 - **Diretor**
-  - GET /diretor
-  - POST /diretor
-  - PUT /diretor/{id}
-  - DELETE /diretor/{id}
+  - `GET /diretor`
+  - `POST /diretor`
+  - `PUT /diretor/{id}`
+  - `DELETE /diretor/{id}`
   - Também criou o DiretorService, DiretorRepository e o model Diretor anotado com `@Entity`.
 
 - **Filme**
